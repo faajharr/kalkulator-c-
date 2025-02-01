@@ -1,1 +1,1 @@
-# kalkulator-c-
+<p>&nbsp;<b>PROGRAM KALKULATOR C++</b></p><p>Didalam pemrograman C++ terdapat beberapa operator aritmatika yang bisa kita gunakan</p><p>(+) Penjumlahan</p><p>(-) Pengurangan</p><p>(*) Perkalian</p><p>(/) Pembagian</p><p>Kita akan membuat program kalkulator sederhana dengan menggunakan operator-operator tersebut, dan juga kita gunakan percabangan switch case untuk membuat kondisi operator mana yang ingin digunakan.</p><p style="text-align: center;"></p><p style="text-align: left;"><br /></p>
